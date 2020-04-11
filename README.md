@@ -1,5 +1,5 @@
 # Mayhem online
-1. Unzip Mayhem.zip
+1. Download and unzip the zip matching your sys
 2. cd to Mayhem_online/Mayhem
 3. Run the executable Mayhem: "./Mayhem"
 4. Enter your username in the terminal prompt. This name will be displayed in-game.
